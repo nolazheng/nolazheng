@@ -9,7 +9,7 @@ Working hard to achieving the goals with team! Learning fast to become a better 
 * 🌍  I'm based in Taiwan
 * 🖥️  See my portfolio at [here](http://nolazheng.github.io/portfolio/)
 * ✉️  You can contact me at [mania001988@gmail.com](mailto:mania001988@gmail.com)
-* 🚀  I'm currently working on [The Wild Oasis Project](the-wild-oasis-cms.vercel.app)
+* 🚀  I'm currently working on [The Wild Oasis Project](https://the-wild-oasis-cms.vercel.app/)
 * 🧠  I'm learning Algorithms
 * 🤝  I'm open to collaborating on open source projects
 * ⚡  I follow traffic lights when playing Grand Theft Auto
